@@ -1,0 +1,101 @@
+
+
+.footer {
+    height: 1000px;
+    background-image: url("/src/assets/footer.png");
+    margin-block-start: 0;
+    margin-block-end: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.f_list {
+    height: 1000px;
+    width: 930px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.f_contacts {
+    font-size: 96px;
+    font-family: Sofia;
+    color: white;
+
+    margin-block-end: 0;
+    margin-top: 50px;
+}
+
+.f_cheer {
+    font-size: 48px;
+    font-family: Fauna One;
+    color: white;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-top: 55px;
+}
+
+.f_shop {
+    font-size: 64px;
+    font-family: Sofia;
+    color: white;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-top: 30px;
+}
+
+.f_address {
+    font-size: 36px;
+    font-family: "Fauna One";
+    color: white;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-top: 30px;
+}
+
+.f_sub {
+    font-size: 48px;
+    font-family: "Fauna One";
+    color: white;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-top: 30px;
+}
+
+.f_input {
+    width: 400px;
+    height: 100px;
+    border: 1px solid #FFFFFF;
+    background-color: transparent;
+    color: white;
+    font-size: 36px;
+    font-family: "Fauna One";
+    text-align: center;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-top: 30px;
+    padding: 25px 225px;
+}
+.f_b_sub {
+    width: 310px;
+    height: 90px;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    font-family: "Fauna One";
+    font-size: 36px;
+    text-align: center;
+    padding: 25px 35px 27px 35px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-top: 30px;
+    margin-bottom: 160px;
+    transition: 1s;
+}
+
+.f_b_sub:hover {
+    background-color: #180f09;
+    transition-duration: 1s;
+}

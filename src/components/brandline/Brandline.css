@@ -1,0 +1,38 @@
+.brand_line {
+    height: 240px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.block1 {
+    background-image: url("/src/assets/brandline/1.png");
+    height: 140px;
+    width: 320px;
+}
+
+.block2 {
+    background-image: url("/src/assets/brandline/2.png");
+    height: 140px;
+    width: 320px;
+}
+
+.block3 {
+    background-image: url("/src/assets/brandline/3.png");
+    height: 140px;
+    width: 320px;
+}
+
+.block4 {
+    background-image: url("/src/assets/brandline/4.png");
+    height: 140px;
+    width: 320px;
+}
+
+.block5 {
+    background-image: url("/src/assets/brandline/5.png");
+    height: 140px;
+    width: 320px;
+}

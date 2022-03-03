@@ -1,0 +1,80 @@
+.c_drinks {
+    font-size: 72px;
+    font-family: Fauna One;
+    color: white;
+
+}
+
+.coffee_line1 {
+    display: inline-flex;
+}
+
+.block11 {
+    background-image: url("/src/assets/catalog/drinks/Rectangle 10.png");
+    height: 220px;
+    width: 240px;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.block12 {
+    background-image: url("/src/assets/catalog/drinks/Rectangle 13.png");
+    height: 220px;
+    width: 240px;
+    background-repeat: no-repeat;
+    display: flex;
+    margin-left: 180px;
+    margin-right: 180px;
+}
+.coffee_line2 {
+    display: inline-flex;
+    margin-top: 300px;
+
+}
+.block13 {
+    background-image: url("/src/assets/catalog/drinks/Rectangle 12.png");
+    height: 220px;
+    width: 240px;
+    background-repeat: no-repeat;
+    display: flex;
+    /*justify-content: center;*/
+}
+
+.block14 {
+    background-image: url("/src/assets/catalog/drinks/Rectangle 14.png");
+    height: 260px;
+    width: 240px;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+}
+
+.block15 {
+    background-image: url("/src/assets/catalog/drinks/Rectangle 15.png");
+    height: 260px;
+    width: 240px;
+    background-repeat: no-repeat;
+    display: flex;
+    margin-left: 180px;
+    margin-right: 180px;
+    justify-content: center;
+
+}
+
+.block16 {
+    background-image: url("/src/assets/catalog/drinks/Rectangle 16.png");
+    height: 260px;
+    width: 280px;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+}
+
+.coffee_text {
+    font-size: 48px;
+    font-family: Fauna One;
+    color: white;
+    margin-top: 270px;
+}
