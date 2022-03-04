@@ -2,7 +2,7 @@
 .main {
     height: 1100px;
     background-image: url("/src/assets/main/111.png");
-    margin: 30px 0px -30px 0px;
+    margin-bottom: -30px;
 }
 .m_main {
     font-family: Sofia;

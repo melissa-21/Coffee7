@@ -1,0 +1,42 @@
+.first_page {
+    background-image: url("/src/assets/main1/Drinks_519038_2048x1152 1.png");
+    width: 99vw;
+    height: 100vh;
+}
+
+.cheer_block {
+    height: 400px;
+    width: 960px;
+    display: flex;
+    margin-left: 48%;
+    margin-top: 40px;
+}
+.cheer_text {
+    color: white;
+    font-family: Atma;
+}
+
+.cheer {
+    font-size: 144px;
+    margin: 0 auto;
+}
+
+hr {
+    background: white;
+    height: 8px;
+    width: 700px;
+    margin-top: -20px;
+    border: none;
+}
+
+.cheer1 {
+    font-size: 48px;
+}
+
+.tree {
+    background-image: url("/src/assets/main1/Logo1.png");
+    background-repeat: no-repeat;
+    height: 370px;
+    width: 270px;
+}
+

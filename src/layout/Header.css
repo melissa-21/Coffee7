@@ -1,0 +1,38 @@
+.header {
+    width: 1000px;
+    height: 200px;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.navbar {
+    margin-left: 30px;
+    width: 1700px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    display: flex;
+}
+
+.nav_links {
+    margin-top: 50px;
+}
+
+.h_text {
+    font-family: Atma;
+    font-size: 36px;
+    text-decoration: none;
+    color: white;
+    margin-left: 45px;
+}
+
+.nav_links {
+    min-width: 600px;
+    max-width: 1000px;
+    display: flex;
+}
+
